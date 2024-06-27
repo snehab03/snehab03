@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanya Behera</h1>
+<h1 align="center">Hi 👋, I'm Sneha Behera</h1>
 <h3 align="center">A passionate AI/ML enthusiast dedicated to creating an impact.</h3>
 
 <table align="center">
@@ -8,17 +8,17 @@
   </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanya-behera" alt="sanya-behera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sneha-behera" alt="Sneha-behera" /></a> </p>
 
 - 🔭 I have worked on **Library Management System**
 
 - 🌱 I’m currently learning **neural networks, mobile app development**
 
-- 📫 How to reach me **sanyabehera13@gmail.com**
+- 📫 How to reach me **Snehabehera13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanya-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanya-behera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sneha-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sneha-behera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
