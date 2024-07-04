@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Behera</h1>
-<h3 align="center">A passionate AI/ML enthusiast dedicated to creating an impact.</h3>
+<h3 align="center">Passionate about Web Development with a knack for design.</h3>
 
 <table align="center">
   <tr>
